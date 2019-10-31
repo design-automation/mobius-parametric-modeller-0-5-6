@@ -32,7 +32,7 @@ if (examples === undefined) {
         "name": "Function Examples",
         "files": [
         ],
-        "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller/master/src/assets/gallery/function_examples/"
+        "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller-0-5-6/master/assets/gallery/function_examples/"
     };
     config.data.push(examples);
 }

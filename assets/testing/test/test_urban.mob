@@ -156,7 +156,7 @@
                                                                     },
                                                                     {
                                                                         "name": "model_data",
-                                                                        "value": "\"https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller/master/src/assets/gi-json/test_urban_model.gi\"",
+                                                                        "value": "\"https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller-0-5-6/master/assets/gi-json/test_urban_model.gi\"",
                                                                         "default": 0
                                                                     },
                                                                     {

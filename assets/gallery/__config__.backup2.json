@@ -8,7 +8,7 @@
                 "basic_foreach",
                 "basic_while"
             ],
-            "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller/master/src/assets/gallery/basic_examples/"
+            "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller-0-5-6/master/assets/gallery/basic_examples/"
         },
         {
             "name": "Function Examples",
@@ -28,7 +28,7 @@
                 "calc_ParamTToXyz",
                 "calc_ParamXyzToT"
             ],
-            "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller/master/src/assets/gallery/function_examples/"
+            "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller-0-5-6/master/assets/gallery/function_examples/"
         },
         {
             "name": "Attribute Examples",
@@ -38,7 +38,7 @@
                 "set_indexed_attribs",
                 "get_indexed_attribs"
             ],
-            "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller/master/src/assets/gallery/attribute_examples/"
+            "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller-0-5-6/master/assets/gallery/attribute_examples/"
         },
         {
             "name": "Query and Sort Examples",
@@ -46,7 +46,7 @@
                 "xyz_queries",
                 "xyz_sort"
             ],
-            "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller/master/src/assets/gallery/query_sort_examples/"
+            "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller-0-5-6/master/assets/gallery/query_sort_examples/"
         },
         {
             "name": "Imported Models",
@@ -60,7 +60,7 @@
                 "torus_with_holes",
                 "two_polygons_with_holes"
             ],
-            "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller/master/src/assets/gallery/imported_models/"
+            "link": "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller-0-5-6/master/assets/gallery/imported_models/"
         }
     ]
 }
